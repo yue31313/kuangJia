@@ -2,166 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\e3de80255c3e651d597ca79767e86c484343dadc\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_7cb56527f64fce41e10fa93643a9f9c937fd85d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\xutils\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="92ce4d9d9c7423cfb2c34b6bd6fb3dfbdff84b2d">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_6a4371ff8eb6cbfdc10b4e254c341e07379c1c3f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\dcd3f05a6834bf4f71683b03628495ecbe49ba8c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_41858d839f2c203e02b33502101913ab16235a12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\app\libs\gson-2.7.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\libs\gson-2.7.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\gson-2.7_f73db02d455189b557b5e0c897c3cf15f8a1fcdf.jar" />
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.7_586ce47a13609c029c272fa3b014935fb00098a3\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\3d3539d8dc768dcf371b59c2494108fc81ae0d8c\output\jars\libs\internal_impl-23.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_b26e53cb0f62eb6da40602b94a5b6b5d9f26397d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\3d3539d8dc768dcf371b59c2494108fc81ae0d8c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_b0f95e0429d6ab6141cf843cdef94a057612efd3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\f754da70132176997f5b32cddc00d9edc382c370\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_df068a7105c50a34543fcf45852a049f376ddbe0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\韩梦飞沙-安卓工作室\gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_0c618d99bf26305d73c938bdd130e2a5be2b96fa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\0be42c6b88d394840f3ebf6eec526ee4b05c3740\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_31715464103a0da6613c5a9e4d6828a8618dd68b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\韩梦飞沙-安卓工作室\gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\android studio\gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\okio-1.8.0_db07184a57835f7612a1982c4bf6a8926518e925.jar" />
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_66b16e4fd69affcb06c73323f64772c8ade8550d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\Android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_072be56469d48a27e566bb454deb3a66694576bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\app\libs\fastjson-1.1.54.android.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="de873c13032fff0b1dcab39a6fb14a3505bc92bb">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\fastjson-1.1.54.android_b9104bb1603dd79614eb95f33482a30575ab8f7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\韩梦飞沙-安卓工作室\gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_f47de47baf52e03df15777279cd26e249dcd6a23.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\app\libs\eventbus-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_372d0c3f3ce76fc1d4a8717cdd9305d8c5db4c85.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\dd5a4d37aa7b16cee302fa6b5b17671ccfff8424\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="Y:\Atguigu_Code\xUtils3_sample\build\intermediates\pre-dexed\debug\classes_b46423d160f6d2f3a80d8ae897c160c2f7d2b57d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\okhttputils\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="545a0df4a9474b21209074b9acf91a49f4b2a830">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes_a827626d48e93fc7497c12bfaf17f27ea86f3772.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\app\libs\afinal_0.5.1_bin.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_509857c7bac424632833ecbb0305e0ac28a9330d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\Atguigu_Code\app\libs\volley.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\libs\volley.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="813c3f25e85b084b33910bad70ee9b314a774029">
-        <dex dex="Y:\Atguigu_Code\app\build\intermediates\pre-dexed\debug\volley_b9b50c9c4c08d5aec908a259b15ea48a7dc2f4fb.jar" />
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_f5724f7b934efe29471afa4376325aa480ba14d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android studio\gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_e2357d421743ff84915042f13df3fae064b9c8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\libs\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-3.0.0_235d6ae91b2ff4ab45c45b2d1776909f31ec0a9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android studio\gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_160befe6605bb54ac0ab4b93275e6e0e720948ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\libs\fastjson-1.1.54.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de873c13032fff0b1dcab39a6fb14a3505bc92bb">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.1.54.android_32148394a20dbe434b8ba9ffbf1eb47ec78b6456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_91b45de7a882fb6f052e4b510dcda549d5a37805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\libs\afinal_0.5.1_bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\2\afinal_0.5.1_bin_7d6bec16c940fa65998e7eba06ebd26cb365b3dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Y:\Atguigu_Code butter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2d30550edb8c79314fe6826f09398e8f9a95ec7a">
+        <dex dex="Y:\Atguigu_Code butter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_643a70f1fe95bc88a3e762e209cb859a1dd799d2\classes.dex" />
     </item>
 
 </items>
